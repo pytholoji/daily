@@ -14,5 +14,8 @@ class question1:
         F) Syntax Error
     """
 
-
-
+    """
+    Çıktı:
+    _--_
+    Cevap: C)
+    """
