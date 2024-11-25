@@ -14,6 +14,5 @@ class question3:
     """
     Cevap: D) print(palindrom[::-1])
     Çıktı:
-        pass
     ey edip adanada pide ye
     """
