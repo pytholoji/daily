@@ -3,7 +3,7 @@ class question5:
     if __name__ == "__main__":
 
         a = [5, "2", True, 4.0, 3e0]
-        print(set(map(int, a))):
+        print(set(map(int, a)))
 
     """
     Hangisi doğru çıktıyı veriyor?
